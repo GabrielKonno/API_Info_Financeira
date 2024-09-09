@@ -1,7 +1,7 @@
 # TesteSeleção
 Script de Python conforme pedido no teste
 
-# Possíveis dependências a serem instaldas>:
+# Possíveis dependências a serem instaldas:
 
 - **requests**: Para fazer a requisição HTTP.
   ```bash
@@ -16,7 +16,7 @@ Script de Python conforme pedido no teste
 
 ## Código 1 - API - Alpha Vantage
 
-Este código Python busca dados de ações da API **Alpha Vantage**, que fornece informações financeiras em tempo real, e salva esses dados em um arquivo CSV. Ele lida com erros de forma robusta e realiza uma requisição HTTP para obter informações sobre o preço das ações de uma empresa, organizando-as e exportando para um arquivo CSV. Vou explicar os principais blocos de código e sua função:
+Este código Python busca dados de ações da API **Alpha Vantage**, que fornece informações financeiras em tempo real, e salva esses dados em um arquivo CSV. Ele lida com erros de forma robusta e realiza uma requisição HTTP para obter informações sobre o preço das ações de uma empresa, organizando-as e exportando para um arquivo CSV.
 
 ### Imports e Configuração Inicial
 ```python
