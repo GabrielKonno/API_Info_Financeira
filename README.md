@@ -1,6 +1,3 @@
-# TesteSeleção
-Script de Python conforme pedido no teste
-
 # Possíveis dependências a serem instaldas:
 
 - **requests**: Para fazer a requisição HTTP.
